@@ -1,6 +1,6 @@
 # -Shadow-
 
-# Hello, World! 👋
+# Hello, Stranger! 👋
 
 I'm Shadow, a passionate Programmer . Welcome to my GitHub profile!
 
